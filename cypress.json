@@ -1,0 +1,12 @@
+{
+    "browser": "chrome",
+    "video": false,
+    "baseUrl": "http://localhost:3000",
+    "testFiles": [
+      "**/*.spec.js",
+      "**/*.test.js",
+      "**/*.mytestfile.js",
+      "**/*.user.spec.js"
+    ]
+  }
+  
